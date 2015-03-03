@@ -1,0 +1,24 @@
+
+@font-face {
+    font-family: 'cmu_serifroman';
+    src: url('/css/latex/cmunrm-webfont.eot');
+    src: url('/css/latex/cmunrm-webfont.eot?#iefix') format('embedded-opentype'),
+         url('/css/latex/cmunrm-webfont.woff2') format('woff2'),
+         url('/css/latex/cmunrm-webfont.woff') format('woff'),
+         url('/css/latex/cmunrm-webfont.ttf') format('truetype'),
+         url('/css/latex/cmunrm-webfont.svg#cmu_serifroman') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'cmu_serifitalic';
+    src: url('/css/latex/cmunti-webfont.eot');
+    src: url('/css/latex/cmunti-webfont.eot?#iefix') format('embedded-opentype'),
+         url('/css/latex/cmunti-webfont.woff2') format('woff2'),
+         url('/css/latex/cmunti-webfont.woff') format('woff'),
+         url('/css/latex/cmunti-webfont.ttf') format('truetype'),
+         url('/css/latex/cmunti-webfont.svg#cmu_serifitalic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}

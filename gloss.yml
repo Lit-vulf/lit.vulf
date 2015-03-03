@@ -1,0 +1,14 @@
+---
+  title: lit.vulf
+  grouped-index: true
+  company:
+    name: Vulf Records, GmbH
+    link: http://vulf.de
+  tombstone: "•"
+  header:
+    home:
+      logo: /lit.vulf.png
+  css:
+    - normalize
+    - fonts
+    - main

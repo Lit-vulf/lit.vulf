@@ -1,0 +1,343 @@
+body {
+  background: white;
+  font-family: "Pitch-Regular", monospace;
+  font-size: 16px;
+}
+
+.width {
+  max-width: 680px;
+  min-width: 200px;
+  margin-left: auto;
+  margin-right: auto;
+  position: relative;
+}
+
+#header-container {
+  background: white;
+  box-shadow: 0 0 20px rgba(81,0,0,.04);
+  border-bottom: 1px solid #eee;
+}
+
+#header {
+  height: 60px;
+}
+
+#logo {
+  position: absolute;
+  top: 9px;
+  left: 0px;
+}
+
+#logo a.ghz {
+  display: block;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+#logo a.tonal {
+  display: block;
+  position: absolute;
+  top: 0;
+  left: 10px;
+}
+
+#container {
+  margin: 80px auto 80px auto;
+}
+
+#content {
+  background: white;
+  padding: 20px 14px;
+  font-size: 16px;
+  min-height: 800px;
+}
+
+.post-listing {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  font-weight: normal;
+  font-size: 24px;
+  color: #888;
+}
+
+.post-listing li {
+  margin: 10px 0;
+}
+
+.post-listing li a {
+  color: #333;
+  font-size: 16px;
+  text-decoration: none;
+}
+
+.post-listing li a:visited {
+  color: #333;
+}
+
+.post-listing li a span {
+  font-weight: normal;
+  color: #ccc;
+  display: inline-block;
+  width: 30px;
+}
+
+.post-listing li .tags {
+  position: absolute;
+  font-weight: normal;
+  margin-left: 6px;
+  color: #eee;
+}
+
+.post-listing li .tags em {
+  font-style: normal;
+  font-weight: bold;
+  color: lavender;
+}
+
+.post {
+  line-height: 125%;
+  color: #222;
+}
+
+.post-metadata {
+  margin-bottom: 40px;
+}
+
+.post h1 {
+  font-family: "FoundersGrotesk-Bold", "Helvetica Neue", "Source Sans Pro", sans-serif;
+  font-weight: normal;
+  letter-spacing: 1px;
+}
+
+.post-metadata .date {
+  font-family: "Pitch-RegularItalic", serif;
+  font-size: 14px;
+}
+
+.post-post {
+  margin-top: 20px;
+}
+
+.post-post .author {
+  text-align: right;
+  font-family: "Pitch-RegularItalic", serif;
+  font-size: 14px;
+}
+
+.post a {
+  text-decoration: none;
+  border-bottom: 1px solid rgba(183,11,87,0.4);
+  /*border-bottom: 2px solid whitesmoke;*/
+  color: #333;
+}
+
+.post .separator {
+  color: #ccc;
+  margin: 20px 0;
+  text-align: center;
+}
+
+.post .section {
+  /*margin: 10px 0 10px 0;*/
+  position: relative;
+}
+
+.post .section.left {
+  margin-right: -40px;
+  padding-right: 40px;
+  border-right: 1px solid #eee;
+}
+
+.post .section.right {
+  margin-left: -40px;
+  padding-left: 40px;
+  border-left: 1px solid #eee;
+}
+
+.post .section-start {
+  height: 4px;
+}
+
+.post .section-end {
+  height: 10px;
+}
+
+.post .spandrel {
+  position: absolute;
+  width: 16px;
+  height: 4px;
+  background: #eee;
+}
+
+.post .section.left .section-start .spandrel {
+  top: 0;
+  right: 0;
+}
+
+.post .section.left .section-end .spandrel {
+  bottom: 0;
+  right: 0;
+}
+
+.post .section.right .section-start .spandrel {
+  top: 0;
+  left: 0;
+}
+
+.post .section.right .section-end .spandrel {
+  bottom: 0;
+  left: 0;
+}
+
+.section .section-start h5 {
+  position: absolute;
+  top: 18px;
+  font-weight: normal;
+  font-style: normal;
+  line-height: 105%;
+  margin: 0;
+  font-family: "Pitch-RegularItalic", serif;
+}
+
+.section.left .section-start h5 {
+  left: 105%;
+}
+
+.section.right .section-start h5 {
+  right: 105%;
+}
+
+.post p.classic {
+  /*text-align: justify;*/
+  /*text-indent: 14px;*/
+  margin: 0;
+  padding: 10px 0 10px 0;
+  line-height: 150%;
+  font-size: 16px;
+  /*text-indent: 8px;*/
+}
+
+.post p.classic em.inlined {
+  color: #000;
+  font-family: "Pitch-RegularItalic", sans-serif;
+  font-style: normal;
+}
+
+.post .dropcap {
+  float: left;
+  color: rgb(206,0,0);
+  font-size: 60px;
+  line-height: 45px;
+  height: 34px;
+  padding: 0 3px 0 0;
+  font-family: "FoundersGrotesk-Bold", sans-serif;
+  font-weight: normal;
+}
+
+.post .parenthesis {
+  color: #aaa;
+}
+
+.post .parenthetical {
+  color: #444;
+}
+
+.post figure {
+  font-family: monospace;
+  font-size: 10px;
+  text-align: center;
+  font-style: italic;
+}
+
+.post figure.ann-right-sidebar {
+  width: 180px;
+  float: right;
+  padding: 0 0 10px 20px;
+  margin: 17px 0 0 0;
+  line-height: 120%;
+}
+
+.post figure img {
+  width: 100%;
+  margin-bottom: 10px;
+}
+
+.post blockquote {
+  margin: 0;
+  padding: 20px 10px 20px 40px;
+}
+
+.post blockquote.ann-typewriter {
+  font-family: Monaco, "Courier New", monospace;
+  font-size: 14px;
+  line-height: 120%;
+}
+
+.post blockquote.ann-academic {
+  font-family: "cmu_serifroman", "Times New Roman", serif;
+  line-height: 130%;
+  font-size: 14px;
+}
+
+.post blockquote.ann-academic em {
+  font-family: "cmu_serifitalic", serif;
+  font-style: normal;
+}
+
+.post iframe {
+  width: 100%;
+  border: none;
+  height: 300px;
+}
+
+.tombstone {
+  margin-left: 4px;
+}
+
+.post a.footnote {
+  border: none;
+  color: rgba(183,11,87,0.8);
+}
+
+.post-footnotes a.footnote-backref {
+  border: none;
+  color: rgba(183,11,87,0.7);
+}
+
+.post-footnotes {
+  font-size: 12px;
+  margin-top: 100px;
+}
+
+.post-footnotes ol {
+  padding-left: 30px;
+}
+
+#footer-container {
+  background: #ddd;
+}
+
+#footer {
+  padding: 20px 0;
+}
+
+.copyright {
+  color: #555;
+  text-align: center;
+}
+
+.copyright a {
+  color: steelblue;
+  text-decoration: none;
+}
+
+.posts-month {
+  margin-bottom: 50px;
+}
+
+.posts-group-date {
+  font-family: "Pitch-RegularItalic";
+  font-size: 14px;
+}
