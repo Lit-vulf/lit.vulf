@@ -1,6 +1,6 @@
 body {
   background: white;
-  font-family: "Pitch-Regular", monospace;
+  font-family: "PitchWeb-Regular", monospace;
   font-size: 16px;
 }
 
@@ -106,13 +106,13 @@ body {
 }
 
 .post h1 {
-  font-family: "FoundersGrotesk-Bold", "Helvetica Neue", "Source Sans Pro", sans-serif;
+  font-family: "FoundersGroteskWeb-Semibold", "Helvetica Neue", "Source Sans Pro", sans-serif;
   font-weight: normal;
   letter-spacing: 1px;
 }
 
 .post-metadata .date {
-  font-family: "Pitch-RegularItalic", serif;
+  font-family: "PitchWeb-RegularItalic", serif;
   font-size: 14px;
 }
 
@@ -122,7 +122,7 @@ body {
 
 .post-post .author {
   text-align: right;
-  font-family: "Pitch-RegularItalic", serif;
+  font-family: "PitchWeb-RegularItalic", serif;
   font-size: 14px;
 }
 
@@ -198,7 +198,7 @@ body {
   font-style: normal;
   line-height: 105%;
   margin: 0;
-  font-family: "Pitch-RegularItalic", serif;
+  font-family: "PitchWeb-RegularItalic", serif;
 }
 
 .section.left .section-start h5 {
@@ -221,7 +221,7 @@ body {
 
 .post p.classic em.inlined {
   color: #000;
-  font-family: "Pitch-RegularItalic", sans-serif;
+  font-family: "PitchWeb-RegularItalic", sans-serif;
   font-style: normal;
 }
 
@@ -232,7 +232,7 @@ body {
   line-height: 45px;
   height: 34px;
   padding: 0 3px 0 0;
-  font-family: "FoundersGrotesk-Bold", sans-serif;
+  font-family: "FoundersGroteskWeb-Semibold", sans-serif;
   font-weight: normal;
 }
 
@@ -338,6 +338,6 @@ body {
 }
 
 .posts-group-date {
-  font-family: "Pitch-RegularItalic";
+  font-family: "PitchWeb-RegularItalic";
   font-size: 14px;
 }
