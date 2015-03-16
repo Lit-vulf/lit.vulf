@@ -7,7 +7,7 @@
   tombstone: "•"
   header:
     home:
-      logo: /lit.vulf.png
+      text-logo: lit.vulf
   css:
     - normalize
     - fonts

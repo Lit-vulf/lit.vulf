@@ -1,11 +1,11 @@
 body {
   background: white;
-  font-family: "PitchWeb-Regular", monospace;
+  font-family: "TiemposText-Regular", Georgia, serif;
   font-size: 16px;
 }
 
 .width {
-  max-width: 680px;
+  max-width: 580px;
   min-width: 200px;
   margin-left: auto;
   margin-right: auto;
@@ -38,8 +38,13 @@ body {
 #logo a.tonal {
   display: block;
   position: absolute;
-  top: 0;
+  top: 2px;
   left: 10px;
+  font-family: "PitchWeb-RegularItalic", monospace;
+  color: firebrick;
+  text-decoration: none;
+  font-weight: bold;
+  font-size: 24px;
 }
 
 #container {
@@ -58,8 +63,9 @@ body {
   padding: 0;
   list-style: none;
   font-weight: normal;
-  font-size: 24px;
+  font-size: 20px;
   color: #888;
+  font-family: "PitchWeb-Regular", monospace;
 }
 
 .post-listing li {
@@ -76,11 +82,16 @@ body {
   color: #333;
 }
 
-.post-listing li a span {
+.post-listing li a span.date {
   font-weight: normal;
   color: #ccc;
   display: inline-block;
   width: 30px;
+}
+
+.post-listing li a span.title {
+  font-family: "FoundersGroteskWeb-Semibold", sans-serif;
+  font-size: 20px;
 }
 
 .post-listing li .tags {
@@ -128,9 +139,16 @@ body {
 
 .post a {
   text-decoration: none;
-  border-bottom: 1px solid rgba(183,11,87,0.4);
-  /*border-bottom: 2px solid whitesmoke;*/
-  color: #333;
+  border-bottom: 1px solid #eee;
+  color: firebrick;
+}
+
+.post pre {
+  font-family: "PitchWeb-Regular", monospace;
+  padding: 20px 0;
+  margin-left: 20px;
+  font-size: 13px;
+  color: firebrick;
 }
 
 .post .separator {
@@ -196,9 +214,10 @@ body {
   top: 18px;
   font-weight: normal;
   font-style: normal;
-  line-height: 105%;
+  line-height: 150%;
   margin: 0;
-  font-family: "PitchWeb-RegularItalic", serif;
+  font-family: "TiemposText-RegularItalic", serif;
+  text-align: right;
 }
 
 .section.left .section-start h5 {
@@ -221,7 +240,7 @@ body {
 
 .post p.classic em.inlined {
   color: #000;
-  font-family: "PitchWeb-RegularItalic", sans-serif;
+  font-family: "TiemposText-RegularItalic", sans-serif;
   font-style: normal;
 }
 
@@ -296,6 +315,17 @@ body {
   margin-left: 4px;
 }
 
+.post-footnotes h6 {
+  font-family: "PitchWeb-RegularItalic";
+  font-size: 14px;
+  color: #555;
+}
+
+.post-footnotes .footnote {
+  text-indent: -33px;
+  margin-left: 33px;
+}
+
 .post a.footnote {
   border: none;
   color: rgba(183,11,87,0.8);
@@ -304,6 +334,9 @@ body {
 .post-footnotes a.footnote-backref {
   border: none;
   color: rgba(183,11,87,0.7);
+  text-indent: 0;
+  width: 26px;
+  display: inline-block;
 }
 
 .post-footnotes {
@@ -316,10 +349,14 @@ body {
 }
 
 #footer-container {
-  background: #ddd;
+  margin-top: 300px;
+  background: white;
+  border-top: 1px solid #eee;
+  box-shadow: 0 0 20px rgba(81,0,0,.04);
 }
 
 #footer {
+  font-family: "PitchWeb-Regular", monospace;
   padding: 20px 0;
 }
 
@@ -329,7 +366,7 @@ body {
 }
 
 .copyright a {
-  color: steelblue;
+  color: #555;
   text-decoration: none;
 }
 

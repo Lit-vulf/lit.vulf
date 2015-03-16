@@ -1,9 +1,8 @@
-~slug: why-banjo
-~title: Why I Play Banjo
+~slug: how-banjoist
+~title: How I Became a Banjoist
 ~date: February 13, 2015
-~tags: [banjo]
 ~author: Rob Stenson
-~author-link: https://twitter.com/robstenson
+~author-link: https://www.youtube.com/watch?v=KnY9auT7ly0
 ~location: Boston
 
 ƒ«img:/img/banjo.jpg» The author’s banjo. (§:right-sidebar) (ß:width:220px)
@@ -28,11 +27,15 @@ Country and bluegrass records pushed Beatles LPs from the shelves. My dad immers
 
 So, why do I play the banjo? The short answer is as you might guess: “Oh, my dad plays banjo, so I grew up hearing it.”
 
-An underhanded thing to say. A subtle implication — as you might expect of a true banjoist — that it’s a family tradition, that probably my dad’s dad played, and his father before him. The truth is that my dad’s family has been living in Chicago since the mid-19th century. Scots-Irish, sure, but not hollow-born. Yankees.
+An underhanded thing to say. A subtle implication — as you might expect of a true banjoist — that it’s a family tradition, that probably my dad’s dad played, and his father before him. The truth is that my dad’s family has been living in Chicago since the mid-19th century. Scots-Irish, sure, but not hollow-born.
 
-To be fair, four banjo picking generations would be quite a remarkable thing, especially for a white family. Up until about 1950, before bluegrass music fed into mainstream culture and revealed an enclave of white banjo pickers in the Appalachian mountains, the popular notion was that the banjo was a black man’s instrument, a slave instrument. And it was. West African in genealogy, the banjo we know today is a cousin to the [_xalam_](http://en.wikipedia.org/wiki/Xalam) and [_akonting_](http://en.wikipedia.org/wiki/Akonting) and [_jeli ngoni_](http://en.wikipedia.org/wiki/Ngoni_%28instrument%29) — all instruments of today’s West Africa, all beautiful instruments, all played in a way hauntingly close to my own clawhammer banjo style (well really it’s the other way around).
+{history:Historical Aside}
 
-Banjo-like instruments made the Middle Passage as memories. Gourds and fence wire and time somehow streamlined those memories into one thing — something that minstrel shows brought to 19th century white America. The industrial revolution gave the banjo its drum-like shape (plenty of round boxes lying around once cheese wheel production had industrialized), and a xenophobic moment determined that no other instrument was as American, and so briefly the banjo was elevated and adorned. Virtuosos concerto’d in concert halls; fingers moved quickly on mother-of-pearl inlays. Boston ladies relaxed in drawing rooms with 3/4-sized instruments. Banjo-only orchestras indulged hit tunes. (Hard to really fathom life before amplification.) Early jazz featured it, then electric jazz guitars obsolesced it, briefly. Television and radio and folk threaded it through the 20th century into the 21st: The Beverly Hillbillies for my father’s generation, O Brother Where Are Thou? for mine.
+To be fair, four banjo picking generations would be quite a remarkable thing, especially for a white family. Up until about 1950, before bluegrass music fed into mainstream culture and revealed an enclave of white banjo pickers in the Appalachian mountains, the popular notion was that the banjo was a black man’s instrument, a slave instrument. And it was. West African in genealogy, the banjo we know today is a cousin to the [_xalam_](http://en.wikipedia.org/wiki/Xalam) and [_akonting_](http://en.wikipedia.org/wiki/Akonting) and [_jeli ngoni_](http://en.wikipedia.org/wiki/Ngoni_%28instrument%29) — all instruments of today’s West Africa, all played in a way hauntingly close to my own clawhammer banjo style (well really it’s the other way around).
+
+Banjo-like instruments made the Middle Passage as memories. Gourds and fence wire and time somehow streamlined those memories into one thing — something that minstrel shows brought to 19th century white America. The industrial revolution gave the banjo its drum-like shape (plenty of round boxes lying around once cheese wheel production had industrialized), and a xenophobic moment determined that no other instrument was as American, and briefly the banjo was elevated and adorned. Virtuosos concerto’d in concert halls; fingers moved quickly on mother-of-pearl inlays.[^a] Boston ladies relaxed in drawing rooms with 3/4-sized instruments. Banjo-only orchestras indulged hit tunes. (Hard to really fathom life before amplifi-cation.) Early jazz featured it, then electric jazz guitars obsolesced it, briefly. Television and radio and folk threaded it through the 20th century into the 21st: The Beverly Hillbillies for my father’s generation, O Brother Where Are Thou? for mine.
+
+{/history}
 
 More American than most American things, I’d say. Certainly tells more of America’s racial history than apple pie or baseball.
 
@@ -51,3 +54,5 @@ So here I am, how pathetic, very little makes me happier than that simple loping
 The kind of hobby that consumes 20 minutes in a moment, and is great at dinner parties, and starts great conversations in airports. “Is that a banjo?” It is yes! “How did you pick it up?”
 
 “Oh, my dad plays.”
+
+[^a]: The irony is that banjos from this period of time are now coveted by players, like me, who clawhammer the kind of “old-time” music that classical banjoists were attempting to put in the past.

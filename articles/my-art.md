@@ -5,6 +5,7 @@
 ~author: Jack Stratton
 ~author-link: https://twitter.com/jacks
 ~tags: [art]
+~draft: true
 
 My art is not driven by money.
 
