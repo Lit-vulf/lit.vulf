@@ -12,3 +12,6 @@
     - normalize
     - fonts
     - main
+  meta:
+    - property: "og:site_name"
+      content: "lit.vulf"
