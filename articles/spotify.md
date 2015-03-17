@@ -7,7 +7,7 @@
 
 I’m your guy.
 
-Take a single stream of “[The Birdwatcher]”(https://open.spotify.com/track/2WvWRwqW9KFfyKUXBGAcXg) in March 2014. Terry, the user, lives in the US and pays $9.99/month for Spotify. I, the artist, receive a total of $0.00786 over the next nine months:
+Take a single stream of "[The Birdwatcher](https://open.spotify.com/track/2WvWRwqW9KFfyKUXBGAcXg)" in March 2014. Terry, the user, lives in the US and pays $9.99/month for Spotify. I, the artist, receive a total of $0.00786 over the next nine months:
 
 ```
                       Licensed Use of Master — $0.00668 
